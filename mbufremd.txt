@@ -5,12 +5,8 @@ Casado, 45 anos
 mbufremd@gmail.com
 https://www.linkedin.com/in/marcelobufrem
 
-Executivo com mais de 20 anos no setor de Tecnologia com atuação direcionada à estratégia, soluções e entrega de
-valor através de visão sistêmica, domínio do negócio (varejo, adquirência, meios de pagamento, financeiro/banking, entre outros) estruturação de equipes de alto desempenho e sólidos conhecimentos em gerenciamento de programas
-e projetos complexos. Perfil voltado a inovação e resolução de problemas, apoiado em profundo conhecimento em arquitetura de software e foco em excelência técnica.
-
-Pontos relevantes: criação de estratégias de TI direcionadas aos negócios através do envolvimento da equipe; habilidades em gestão de talentos desenvolvidas com mais de 10 anos de experiência em cargos de liderança; ótimo 
-relacionamento com C-Level, equipe e clientes; sólidos conhecimentos em Lean, Agile & Business Agility, com histórico de impacto positivo para os negócios; experiência em projetos distribuídos geograficamente, observando peculiaridades culturais; constante atualização técnica e estudo de tecnologias emergentes.
+Executivo com mais de 20 anos no setor de Tecnologia com atuação direcionada à estratégia, soluções e entrega de valor através de visão sistêmica, domínio do negócio (varejo, adquirência, meios de pagamento, financeiro/banking, entre outros) estruturação de equipes de alto desempenho e sólidos conhecimentos em gerenciamento de programas e projetos complexos. Perfil voltado a inovação e resolução de problemas, apoiado em profundo conhecimento em arquitetura de software e foco em excelência técnica. 
+Pontos relevantes: criação de estratégias de TI direcionadas aos negócios através do envolvimento da equipe; habilidades em gestão de talentos desenvolvidas com mais de 10 anos de experiência em cargos de liderança; ótimo relacionamento com C-Level, equipe e clientes; sólidos conhecimentos em Lean, Agile & Business Agility, com histórico de impacto positivo para os negócios; experiência em projetos distribuídos geograficamente, observando peculiaridades culturais; constante atualização técnica e estudo de tecnologias emergentes.
 
 Formação & Aprendizado
 •	Graduação: PUC-RS, Administração de Empresas, 08/2004
@@ -61,7 +57,7 @@ Mar/2020 – Jul/2021
     o	Neemu (startup adquirida via M&A) – Produto de Vitrines (on-site)
     o	Percycle (startup adquirida via M&A) – Produto ADS
 •	Responsável pelas iniciativas para conectar o mundo físico aos Marketplaces (Offline-to-Online ou O2O)
-•	 Contato técnico com marketplaces
+•	Contato técnico com marketplaces
 •	Apoio nas definições com time de Produto nas evoluções necessárias
 •	Sensibilização dos times dos ERPs Linx para conectarem no grid via Linx.IO
 •	Modelagem do time de Serviços/Suporte para o onboarding de novos clientes
@@ -98,7 +94,7 @@ Ago/2012 – Mai/2017
 •	Automação do processo de concessão de crédito utilizando Inteligência Artificial (biometria facial)
 •	Tombamento da base de cartões (21 milhões de clientes) sem necessidade de troca do plástico
 •	Implantação e consolidação dos canais digitais de autoatendimento da financeira (site, app, chatbot e toten)
-•	Responsável em tecnologia pela estruturação, implantação e operação da financeira do grupo (Realize CFI) o RFP de seleção das ferramentas (processadora de cartão Conductor, backoffice Matera) o Definição do modelo de governança de TI o Processo de aprovação na inspeção operacional BACEN
+•	Responsável em tecnologia pela estruturação, implantação e operação da financeira do grupo (Realize CFI) o RFP de seleção das ferramentas (processadora de cartão Dock, backoffice Matera) o Definição do modelo de governança de TI o Processo de aprovação na inspeção operacional BACEN
 •	Desenvolvimento e gestão de relacionamentos com clientes internos
 •	Controle orçamentário completo para a área de TI Serviços Financeiros; planejamento, previsão do acompanhamento e real
 •	Responsável por habilitar novas soluções de sistemas e processos dentro da área de Serviços Financeiros
